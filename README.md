@@ -9,3 +9,8 @@
 ##### PREDICTION USING SUPERVISED ML
 ##### -predict the percentage of an student based on the no. of study hours
 ##### -what will be predicted score if a student studies for 9.25 hrs/day?
+
+
+## TASK -2
+##### PREDICTION USING UNSUPERVISED ML
+##### -From the given 'Iris' dataset ,predict the optimum no. of clusters and represent it visually.
