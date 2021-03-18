@@ -14,3 +14,9 @@
 ## TASK -2
 ##### PREDICTION USING UNSUPERVISED ML
 ##### -From the given 'Iris' dataset ,predict the optimum no. of clusters and represent it visually.
+
+
+## TASK -4
+##### EXPLORATORY DATA ANALYSIS - TERRORISM
+##### -Exploratory DA on dataset - 'global terrorism'.
+##### -Find out the Zone Of terrorism.
