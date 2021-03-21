@@ -1,0 +1,30 @@
+tableau public link : https://public.tableau.com/profile/shikha5507#!/vizhome/Globalterroism/Story1
+story 
+a) bar graph ( year v/s no. of attacks)
+  no of attacks take place every year.
+  around 4000 terrorist attacks take place every year.
+  
+b) Multi  Bar graph ( Year v/s number of attacks, terrorist killed and citizen killed)
+   graph shows in each year how many attacks takes place. 
+   numbers of citizens and terrorist killed in attacks.
+   on an average 8500 people are killed in terrorist attacks.
+   In last decade, no. of people killed in terrorist attack reached to 20,000 people . 
+
+
+c) map
+   map shows which group/gang of terrorist is active on which area of the world. 
+   Map contains filters as country, state and group name.
+   
+   
+d) Horizontal Bar Graph ( Attack type v/s no . of attacks )
+   Graph shows that which are the most common attacktype. 
+   Bombing and using explosives for attack is the most commonly used type strategy by the terrorist.
+   
+e) Horizontal Bar Graph ( Weapon type v/s no. of attacks)
+   Graph shows that which is the most widely used weapon for the attacks.
+   Explosives and firearms are the most used weapons for attacks. 
+   
+   
+f) Map
+   Map represent the Red zones of terrorism around the world. 
+  
